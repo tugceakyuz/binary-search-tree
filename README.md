@@ -54,7 +54,7 @@ Root 7'dir.
       3
 7. 
 0 değeri 1'den küçük olduğu için soluna yazıyoruz.
-
+```
         7
        / \  
       5   8
@@ -62,10 +62,11 @@ Root 7'dir.
     1   6   
    / \
   0   3
+```
 
 8. 
 9 değeri 8'den büyük olduğu için sağına yazıyoruz.
-
+```
         7
        / \  
       5   8
@@ -73,9 +74,10 @@ Root 7'dir.
     1   6   9
    / \
   0   3 
+```
 9. 
 4 değeri 3'ten büyük olduğu için sağına yazıyoruz.
-
+```
         7
        / \  
       5   8
@@ -85,9 +87,10 @@ Root 7'dir.
   0   3
        \
         4
+```
 10. 
 2 değeri 3'ten küçük olduğu için soluna yazıyoruz.
-
+```
         7
        / \  
       5   8
@@ -97,3 +100,4 @@ Root 7'dir.
   0   3
      / \
     2   4
+```
